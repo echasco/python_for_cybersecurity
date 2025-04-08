@@ -11,7 +11,8 @@ Bienvenido a **CyberTools**, una colección ligera y poderosa de herramientas cr
 Esta herramienta analiza si un recurso está detrás de un CDN como Cloudflare, útil para saber si estás frente a una IP real o una red de protección.
 
 ```
-python cdn_detector.py -u https://example.com
+python cloudflare_detector.py -t https://example.com -m header
+python cloudflare_detector.py -t https://example.com -m whois
 ```
 
 

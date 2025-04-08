@@ -2,6 +2,9 @@
 Web Technology Analyzer
 ------------------------------
 
+Autor: Eduardo Chasco
+Fecha: 2025-04-07
+
 Este script analiza las tecnologías utilizadas en un sitio web utilizando la librería Wappalyzer.
 
 Requisitos:
@@ -14,8 +17,6 @@ Instalación:
 Uso:
     python app_wappalyzer.py -u https://ejemplo.com
 
-Autor: Eduardo Chasco
-Fecha: 2025-04-07
 """
 
 import argparse
