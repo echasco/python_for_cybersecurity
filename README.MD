@@ -7,7 +7,7 @@ Bienvenido a **CyberTools**, una colección ligera y poderosa de herramientas cr
 ## 🚀 Herramientas incluidas
 
 ### 🔍 CDN Detector (Cloudflare)
- **¿Un archivo o sitio está protegido por Cloudflare?**  
+ **¿El sitio está protegido por Cloudflare?**  
 Esta herramienta analiza si un recurso está detrás de un CDN como Cloudflare, útil para saber si estás frente a una IP real o una red de protección.
 
 ```
